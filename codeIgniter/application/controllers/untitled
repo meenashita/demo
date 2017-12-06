@@ -1,0 +1,14 @@
+
+
+variable
+array
+
+
+this load model
+
+if(userMOdel -> insertData($credentials))_{
+	this load view
+} else {
+	this load view
+}
+
